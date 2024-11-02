@@ -17,7 +17,7 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter")
 
     // Dependency on JMina
-    testImplementation("dev.jmina:jmina:0.1.3")
+    testImplementation("dev.jmina:jmina:0.1.4")
 }
 
 tasks.test {
